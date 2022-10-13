@@ -1,5 +1,4 @@
-![654506-1868441614](https://user-images.githubusercontent.com/37017703/195576380-60688109-7a58-4919-ad2d-1b2e5abc52b2.jpg)
-[![acerrah's 42 stats](https://badge42.vercel.app/api/v2/cl96vmh7a00400gmj3g9siili/stats?cursusId=21&coalitionId=244)](https://github.com/JaeSeoKim/badge42)
+![654506-1868441614-1](https://user-images.githubusercontent.com/37017703/195577153-f3dc6de8-800f-4666-9d27-b06face8eabb.jpg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acerrah&theme=tokyonight)
 
