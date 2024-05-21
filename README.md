@@ -2,8 +2,8 @@
 
 Tech lover. Familiar with Linux, C/C++, Go and Python programming languages, with a focus on exploring advanced concepts in eBPF, XDP and network.
 
-cerrah.work
-cerrah.blog
+[cerrah.work](cerrah.work)
+[cerrah.blog](cerrah.blog)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acerrah&theme=tokyonight)
